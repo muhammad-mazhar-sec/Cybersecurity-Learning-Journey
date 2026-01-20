@@ -1,18 +1,11 @@
-# Cybersecurity Learning Log
+# Cybersecurity Learning Journey
 
-This repository documents my learning journey in cybersecurity.
+👤 Name: Muhammad Mazhar
+🎯 Goal: SOC Analyst  
+⏱️ Study Time: 3–5 hours/day  
 
-## Focus areas
-- Networking fundamentals
-- Linux command-line basics
-- Web security (OWASP Top 10)
-- Python scripting (beginner)
-- Security tools used only in legal lab environments
-
-## Purpose
-- Track daily learning progress
-- Build strong fundamentals step by step
-- Maintain consistency and discipline while learning
-
-⚠️ All activities are for educational purposes and practiced only in authorized lab environments.
-
+## What this repo shows
+- Daily learning logs
+- Hands-on labs and notes
+- Tools usage (legal & ethical)
+- Security concepts explained in my own words
